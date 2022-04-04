@@ -10,6 +10,7 @@ const router = createRouter({
       component: HomeView
     },
     {
+      //Alterar o caminho do Path para rodar o projeto. 
       path: '/about',
       name: 'about',
       // route level code-splitting
